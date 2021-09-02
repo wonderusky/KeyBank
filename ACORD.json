@@ -1,6 +1,4 @@
-"0" :  { 
-      "01-Loan_Number" : "",
-}
+{
 "1" :  { 
       "01-Loan_Number" : "010169451",
       "02-Previous_Loan_Nbr" : "",
@@ -29991,5 +29989,5 @@
       "8-PRTY_NM" : "LEFU DING & YU Q HUANG",
       "9-PRTY_ADDR_1" : "828 LAFAYETTE AVE",
       "Doc_Date" : "5/13/2021"
-},
+  }
 }
