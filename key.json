@@ -1,9 +1,11 @@
 {
-    "terms" : { 
-            "Terms and Termination": "Termination",
-            "Termination for Cause Termination": "Termination",
-            "Termination for Convenience Termination": "Termination",
-            "Term": "Termination"
-        }
+    "terms" : [
+        {
+            "Terms and Termination" : "Termination",
+            "Termination for Cause Termination" : "Termination",
+            "Termination for Convenience Termination" : "Termination",
+            "Term" : "Termination"
+    }
+  ]
 }
     
